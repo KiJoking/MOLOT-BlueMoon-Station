@@ -39,7 +39,8 @@ PROCESSING_SUBSYSTEM_DEF(quirks)
 						  list("Звериный Дух", "Дуллахан"),
 						  list("Хорошо слышимый", "Немота"),
 						  list(BLUEMOON_TRAIT_NAME_SHRIEK, "Немота"),
-						  list("Сотрудник НаноТрейзен", "Сотрудник Синдиката")
+						  list("Сотрудник НаноТрейзен", "Сотрудник Синдиката"),
+						  list(BLUEMOON_TRAIT_NAME_ANOTHER_I) //Я не знаю как это работает, исправьте после как должно быть.
 						  )
 		//BLUEMOON ADD END
 	return ..()

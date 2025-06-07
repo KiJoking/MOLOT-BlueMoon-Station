@@ -13,6 +13,7 @@
 #define TRAIT_SHY							"shy"
 #define TRAIT_COMMON_PREGNANCY				"common_pregnancy"
 #define TRAIT_BONDAGED						"bondaged"
+#define TRAIT_BLUEMOON_ANOTHER_I			"another_i"
 
 // Отдельные наименования для квирков, чтобы не повторять их в настройках
 #define BLUEMOON_TRAIT_NAME_SHRIEK				"Крикун"
@@ -20,6 +21,8 @@
 #define BLUEMOON_TRAIT_NAME_SHOWER_NEED			"Потребность в душе"
 
 #define BLUEMOON_TRAIT_NAME_COMPLEX_MAINTENANCE "Сложное обслуживание"
+
+#define BLUEMOON_TRAIT_NAME_ANOTHER_I			"Другой Я"
 
 // Трейты для рас
 #define CAN_BE_OPERATED_WITHOUT_PAIN		"can_be_operated_without_pain"
